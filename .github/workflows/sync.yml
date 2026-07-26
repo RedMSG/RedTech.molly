@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v6
         with:
-          ref: upstream
+          ref: upstream-main
           fetch-depth: 0
           lfs: true
           persist-credentials: false
@@ -31,6 +31,6 @@ jobs:
           GIT_LFS_SKIP_SMUDGE: 1
 
       - run: git lfs fetch --all upstream
-      - run: git push origin upstream
+      - run: git push origin upstream-main
         env:
           GH_TOKEN: ${{ secrets.SYNC_PAT }}

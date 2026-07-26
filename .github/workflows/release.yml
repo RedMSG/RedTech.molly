@@ -21,7 +21,7 @@ env:
 jobs:
   build:
     name: Build
-    if: "github.event.base_ref != 'refs/heads/upstream'"
+    if: "github.event.base_ref != 'refs/heads/upstream-main'"
     runs-on: ubuntu-24.04
 
     steps:
@@ -112,7 +112,7 @@ jobs:
 
   prepare_release:
     name: Prepare release
-    if: "github.event.base_ref != 'refs/heads/upstream'"
+    if: "github.event.base_ref != 'refs/heads/upstream-main'"
     runs-on: ubuntu-24.04
 
     steps:
