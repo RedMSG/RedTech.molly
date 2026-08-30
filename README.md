@@ -6,9 +6,11 @@
 [![Financial contributors](https://opencollective.com/redtech-molly/tiers/badge.svg)](https://opencollective.com/redtech-molly#category-CONTRIBUTE)
 [![Cloudsmith](https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&style=flat-square)](https://cloudsmith.com)
 
-**Current release: v8.19.2-4 (versionCode 171904)**
+This is "Ghostly" Ghostly is a End to end encrypted app designed to be integrated with hardened security. () a forked version of [MollyIM]
 
-Ghostly is a hardened version of [Signal](https://github.com/signalapp/Signal-Android) for Android, the fast simple yet secure messaging app by [Signal Foundation](https://signal.org).
+**Current release: v8.19.2-4 (versionCode 171904)** 
+
+(https://github.com/signalapp/Signal-Android) for Android, the fast simple yet secure messaging app by [Signal Foundation](https://signal.org).
 
 ## Introduction
 
