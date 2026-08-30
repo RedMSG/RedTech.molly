@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- Custom build branding. Keep product-specific styling isolated here. -->
+<!-- Custom Ghostly build branding. Keep product-specific styling isolated here. -->
 <resources>
-    <string name="custom_app_name" translatable="false">Temple</string>
+    <string name="custom_app_name" translatable="false">Ghostly</string>
 
     <!-- Brand palette used by the custom visual layer. -->
     <color name="custom_brand_primary">#111111</color>
