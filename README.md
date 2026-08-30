@@ -6,28 +6,23 @@
 [![Financial contributors](https://opencollective.com/redtech-molly/tiers/badge.svg)](https://opencollective.com/redtech-molly#category-CONTRIBUTE)
 [![Cloudsmith](https://img.shields.io/badge/OSS%20hosting%20by-cloudsmith-blue?logo=cloudsmith&style=flat-square)](https://cloudsmith.com)
 
-This is "Ghostly" Ghostly is a End to end encrypted app designed to be integrated with hardened security. () a forked version of [MollyIM]
+Ghostly is a hardened, privacy-focused fork of [Signal](https://github.com/signalapp/Signal-Android) built on [MollyIM](https://github.com/mollyim/mollyim-android), providing end-to-end encryption with enhanced security features for Android.
 
 **Current release: v8.19.2-4 (versionCode 171904)** 
 
-(https://github.com/signalapp/Signal-Android) for Android, the fast simple yet secure messaging app by [Signal Foundation](https://signal.org).
-
 ## Introduction
 
-Ghostly is a customized privacy hardend fork of Signal. 
-Ghostly is integrated with end to end encryption and prioritize privacy with additional security features.
+Ghostly is a customized, privacy-hardened fork of Signal. It is integrated with end-to-end encryption and prioritizes privacy with additional security features.
 
 Ghostly connects to Signal's servers, so you can chat with your Signal contacts seamlessly. Before signing up, please remember to review the [Signal Terms & Privacy Policy](https://signal.org/legal/).
 
-We update Ghostly App. regularly to include the latest Signal features and fixes. The exceptions are security patches, which are applied as soon as they are available.
+We update Ghostly regularly to include the latest Signal features and fixes. The exceptions are security patches, which are applied as soon as they are available.
 
 ## Download
 
 You can download the app from GitHub's [Releases](https://github.com/RedMSG/RedTech.molly/releases/latest) page.
 
-
-*Note*: **Ghostly** or **Ghostly-App**. can only be downloaded from Github.
-
+*Note*: **Ghostly** can only be downloaded from GitHub.
 
 To [verify](https://developer.android.com/studio/command-line/apksigner#usage-verify) the APK, use the following signing certificate fingerprints:
 ```
