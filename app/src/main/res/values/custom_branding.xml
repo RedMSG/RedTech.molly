@@ -2,6 +2,8 @@
 
 <!-- Custom Ghostly build branding. Keep product-specific styling isolated here. -->
 <resources>
+    <!-- The manifest resolves its application label through this resource. -->
+    <string name="app_name" translatable="false">Ghostly</string>
     <string name="custom_app_name" translatable="false">Ghostly</string>
 
     <!-- Brand palette used by the custom visual layer. -->
